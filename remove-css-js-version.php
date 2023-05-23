@@ -3,9 +3,9 @@
 Plugin Name: Remove version number in CSS and JS files
 Plugin URI: https://wwww.gregoirenoyelle.com
 Description: Remove version numbers to works with Live Google Chrome Inpector
-Version: 1.0
+Version: 1.1
 Author: Grégoire Noyelle
-Author URI: http://wwww.gregoirenoyelle.com
+Author URI: https://wwww.gregoirenoyelle.com
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
